@@ -1,0 +1,12 @@
+netbeans
+compile
+project SampleProject
+scala tst
+project SampleProject
+fls
+ls
+scala
+println("hello"))
+println("hello")
+project SampleProject
+~run .
