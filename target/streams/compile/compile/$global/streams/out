@@ -1,63 +1,15 @@
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
-[0m[[0mdebug[0m] [0m	added: Set(/Users/test/NetBeansProjects/ScalaImmuatableCollection/src/main/scala/IQueue.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
 [0m[[0mdebug[0m] [0m	modified: Set()[0m
 [0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/test/NetBeansProjects/ScalaImmuatableCollection/src/main/scala/IQueue.scala)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/test/NetBeansProjects/ScalaImmuatableCollection/src/main/scala/IQueue.scala)[0m
-[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/test/NetBeansProjects/ScalaImmuatableCollection/target/scala-2.11/classes...[0m
-[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.4[0m
-[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.11.4  with arguments: [0m
-[0m[[0mdebug[0m] [0m	-nowarn[0m
-[0m[[0mdebug[0m] [0m	-d[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_78773188[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/classes:/Users/test/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.4.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/Users/test/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.5/xsbti/interface-0.13.5.jar:/Users/test/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.5/compiler-interface-src/compiler-interface-src-0.13.5.jar:/Users/test/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.4.jar:/Users/test/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.4.jar:/Users/test/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/Users/test/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.2.jar:/Users/test/.ivy2/cache/jline/jline/jars/jline-2.12.jar[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/API.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/Analyzer.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/Command.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/Compat.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/CompilerInterface.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/ConsoleInterface.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/DelegatingReporter.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/Dependency.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/ExtractAPI.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/ExtractUsedNames.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/LocateClassFile.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/Log.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/Message.scala[0m
-[0m[[0mdebug[0m] [0m	/var/folders/r_/y0slpzbj4b9_qcw_cg8n11640000gn/T/sbt_ed1ee26c/xsbt/ScaladocInterface.scala[0m
-[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.4[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 56ff659e, interfacing (CompilerInterface) with Scala compiler version 2.11.4[0m
-[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
-[0m[[0mdebug[0m] [0m	-unchecked[0m
-[0m[[0mdebug[0m] [0m	-deprecation[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/classes:/Users/test/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.4.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/Users/test/NetBeansProjects/ScalaImmuatableCollection/target/scala-2.11/classes[0m
-[0m[[31merror[0m] [0m/Users/test/NetBeansProjects/ScalaImmuatableCollection/src/main/scala/IQueue.scala:24: class IQueue needs to be abstract, since:[0m
-[0m[[31merror[0m] [0mit has 4 unimplemented members.[0m
-[0m[[31merror[0m] [0m/** As seen from class IQueue, the missing signatures are as follows.[0m
-[0m[[31merror[0m] [0m *  For convenience, these are usable as stub implementations.[0m
-[0m[[31merror[0m] [0m */[0m
-[0m[[31merror[0m] [0m  def deQueue(): Queue[T] = ???[0m
-[0m[[31merror[0m] [0m  def enQueue(t: T): Queue[T] = ???[0m
-[0m[[31merror[0m] [0m  def head: Option[T] = ???[0m
-[0m[[31merror[0m] [0m  def isEmpty: Boolean = ???[0m
-[0m[[31merror[0m] [0m  class IQueue[T] extends Queue[T]{[0m
-[0m[[31merror[0m] [0m        ^[0m
-[0m[[31merror[0m] [0mone error found[0m
-[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
-[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m

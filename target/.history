@@ -10,3 +10,9 @@ println("hello"))
 println("hello")
 project SampleProject
 ~run .
+netbeans
+exit
+netbeans
+~run .
+quit
+exit
